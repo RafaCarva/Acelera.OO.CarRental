@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acelera.OO.CarRental", "Acelera.OO.CarRental\Acelera.OO.CarRental.csproj", "{34AC2A70-0906-4DAD-BFC2-6C2B113F94E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acelera.OO.CarRental.Tests", "Acelera.OO.CarRental.Tests\Acelera.OO.CarRental.Tests.csproj", "{3441A2C5-B92E-49BB-BF18-34CF4F3701A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acelera.OO.CarRental.Tests", "Acelera.OO.CarRental.Tests\Acelera.OO.CarRental.Tests.csproj", "{3441A2C5-B92E-49BB-BF18-34CF4F3701A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acelera.OO.CarRental.Domain", "Acelera.OO.CarRental.Domain\Acelera.OO.CarRental.Domain.csproj", "{FF37399E-CA3B-4EE1-A027-F229D612D0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acelera.OO.CarRental.Business", "Acelera.OO.CarRental.Business\Acelera.OO.CarRental.Business.csproj", "{B3ACD2BE-C388-458B-A39A-E36B1A0142A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{3441A2C5-B92E-49BB-BF18-34CF4F3701A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3441A2C5-B92E-49BB-BF18-34CF4F3701A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3441A2C5-B92E-49BB-BF18-34CF4F3701A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF37399E-CA3B-4EE1-A027-F229D612D0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF37399E-CA3B-4EE1-A027-F229D612D0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF37399E-CA3B-4EE1-A027-F229D612D0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF37399E-CA3B-4EE1-A027-F229D612D0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3ACD2BE-C388-458B-A39A-E36B1A0142A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3ACD2BE-C388-458B-A39A-E36B1A0142A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3ACD2BE-C388-458B-A39A-E36B1A0142A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3ACD2BE-C388-458B-A39A-E36B1A0142A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

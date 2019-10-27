@@ -1,3 +1,7 @@
+# UML
+
+![acelera-car-rental-v2](https://user-images.githubusercontent.com/13722768/67640171-4de4ad00-f8d7-11e9-89ab-e530a6de354f.jpg)
+
 # Exercício Locadora de Carros
 
 Aplique os conceitos de herança, composição, coesão, acoplamento e modificadores de acesso conforme necessários para resolver o problema. Não esqueça dos testes de unidade!
@@ -38,6 +42,3 @@ Por exemplo, caso o cliente alugue um Motor Home do dia 21/10/2019 17:00 ao dia 
 	Geladeira: R$ 250,00
 6) Valor total do aluguel:  R$ 1.437,50
 
-# UML
-
-![acelera-car-rental](https://user-images.githubusercontent.com/13722768/67590375-42578180-f731-11e9-8d7f-686138e9d3c0.jpg)
